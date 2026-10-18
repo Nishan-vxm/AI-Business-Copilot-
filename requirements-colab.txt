@@ -1,0 +1,7 @@
+gradio>=5.0,<7.0
+pandas>=2.0
+torch>=2.2
+transformers>=4.45
+accelerate>=0.34
+kagglehub>=0.3
+pytest>=8.0
